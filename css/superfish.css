@@ -60,7 +60,7 @@ background:#c55237; color:#fff;}
 
 /*** DEMO SKIN ***/
 .sf-menu {
-	margin-bottom: 1em;
+	/*margin-bottom: 1em;*/
 }
 .sf-menu ul {
 	min-width: 12em; /* allow long menu items to determine submenu width */
