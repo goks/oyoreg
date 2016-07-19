@@ -34,6 +34,9 @@ HEADER CLASSES
 .logo h1{ font-size:54px; color:#446396; text-align:center;}
 .logo h3{ color:#446396; text-align: center; }
 .logo img{ /*height: 100px;*/ width: 100%; max-width: 440px; }
+.logodiv{ display: inline-block; }
+#excellogo{	width: 200px }
+#oyologo{	width: 100px }
 /*-------------------------------------------------
 PANEL CLASSES
 -------------------------------------------------*/
